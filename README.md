@@ -17,7 +17,7 @@ Projects Overview
 *	Analyzing salary distribution by job role, employment type, experience level, and company size
 *	Creating interactive Excel dashboards
 #### Key Insights: Identified high-demand roles and provided recommendations for optimizing salary structures.
-### Dashboards Overviews:![image](https://github.com/user-attachments/assets/6bd06327-8580-4ed7-b758-fb43dd6b07d0)
+### Dashboard Overview:![image](https://github.com/user-attachments/assets/6bd06327-8580-4ed7-b758-fb43dd6b07d0)
 ## 3. COVID-19 Unemployment Rate Analysis in India
 * Description: Analyzed the unemployment rate during COVID-19 in India, highlighting differences between rural and urban areas.
 * Technologies: Microsoft Excel, Power BI
@@ -27,6 +27,7 @@ Projects Overview
 *	Enabling detailed analysis with state, year, and month filters
 ####	Key Insights: Highlighted the rise in unemployment during COVID-19 and provided insights into rural vs. urban unemployment rates.
 ####	DASHBOARD LINK: https://app.powerbi.com/view?r=eyJrIjoiZDUyMzRmMjItMDM3Zi00MWMzLTljMWYtNTYzZGRkY2YzOTk0IiwidCI6IjA2NTc1MjRlLTgwYjctNDU3Yi05NGVmLTM5NjYxZmI2OTE0NyJ9
+### Dashboard Overview:![image](https://github.com/user-attachments/assets/a8e9fc62-4e3f-4b99-85b7-a04b3afdb502)
 ## 4. Cereal Dataset Analysis
 *	Description: Analyzed the nutritional content of cereals and provided recommendations for improving product ratings.
 *	Technologies: Python (pandas, matplotlib, seaborn, scikit-learn)
