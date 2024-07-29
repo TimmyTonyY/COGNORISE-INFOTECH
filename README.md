@@ -17,6 +17,7 @@ Projects Overview
 *	Analyzing salary distribution by job role, employment type, experience level, and company size
 *	Creating interactive Excel dashboards
 #### Key Insights: Identified high-demand roles and provided recommendations for optimizing salary structures.
+### Dashboards Overviews:![image](https://github.com/user-attachments/assets/6bd06327-8580-4ed7-b758-fb43dd6b07d0)
 ## 3. COVID-19 Unemployment Rate Analysis in India
 * Description: Analyzed the unemployment rate during COVID-19 in India, highlighting differences between rural and urban areas.
 * Technologies: Microsoft Excel, Power BI
